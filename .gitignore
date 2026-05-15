@@ -6,3 +6,4 @@ k501_ingest/raw_dump/
 *.tar.gz
 *.7z
 *.iso
+k501_ingest/
