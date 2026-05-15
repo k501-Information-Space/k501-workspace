@@ -1,0 +1,360 @@
+  15833 md
+   5113 txt
+   2702 json
+   2610 jpg
+   1984 jpeg
+   1427 ajson
+   1259 docx
+   1174 pdf
+    806 svg
+    576 wav
+    548 zip
+    524 png
+    500 js
+    473 css
+    442 ts
+    424 rtf
+    312 html
+    290 pages
+    206 py
+     84 sample
+     83 canvas
+     76 mdc
+     56 lua
+     55 base
+     50 PNG
+     43 csv
+     43 c
+     42 sh
+     35 ndjson
+     33 sql
+     32 rss
+     24 pyc
+     19 h
+     18 mkv
+     16 tex
+     16 epub
+     12 o
+      8 sty
+      6 HEIC
+      6 git/logs/HEAD
+      6 git/info/exclude
+      6 git/index
+      6 git/HEAD
+      6 git/description
+      6 git/config
+      6 git/COMMIT_EDITMSG
+      4 rev
+      4 pack
+      4 mp4
+      4 mjs
+      4 idx
+      4 git/refs/heads/master
+      4 git/objects/e6/9de29bb2d1d6434b8b29ae775ad8c2e48c5391
+      4 git/logs/refs/heads/master
+      4 gitignore
+      4 bin
+      4 5)
+      3 deb
+      3 dat
+      3 bak
+      2 vscodeignore
+      2 so
+      2 map
+      2  Keine Erweiterung_
+      2 git/refs/heads/main
+      2 git/objects/info/packs
+      2 git/objects/info/commit-graph
+      2 git/objects/ff/c9b6f228ecc39911e2d59bbed7388b8df7d810
+      2 git/objects/fa/fb5f75710b48331a249b079ef575a1b5cb0276
+      2 git/objects/f8/ec21c3025f8fa7abb8497bf9ce4911da0cc903
+      2 git/objects/f7/f961d9f1925e885cc9769f1ed4196150775056
+      2 git/objects/f5/f3419776e95a39aa24c0b5d3b59ecfa4f340f5
+      2 git/objects/f5/861851bc25ac6c15a32c5f642db06f19579f1d
+      2 git/objects/f4/189242d6e2f2b481ead5e654f50a7e1af09cee
+      2 git/objects/f2/82d8cd8e00b41c1bc16b43cce21eef8a9e9154
+      2 git/objects/ef/56f2209a987a1d9d387e2b8f3d90d2062e64a9
+      2 git/objects/ee/c16519be0e89a3819c63ad1bef720f0243ad6c
+      2 git/objects/eb/6ac7ee0495c0ce34b130a5806d8b548808ce37
+      2 git/objects/eb/3fffddf0bd1589ef88b4dcfe7d4a3ea95e359d
+      2 git/objects/e8/aff26171ab8a85ebf604dd41474ecd8e93b7c5
+      2 git/objects/e7/19d1f68ed78f446cb4c7705c08b960519bdf34
+      2 git/objects/e0/a3fe43dc3b34d2f9c63e540ebe54e4ff24eade
+      2 git/objects/db/fb5da8f457ac5a3948501ea5996ac259435e67
+      2 git/objects/db/1cd6940dc01f915e1be7d817471dcb8099ab8c
+      2 git/objects/da/a10bb79d0c8403b5057ab08055f651bde114f0
+      2 git/objects/d7/5a900fad7282c13862f25f1cd7a363e3c8135c
+      2 git/objects/d3/517f59733cca127800108a2243edb0bfd0f835
+      2 git/objects/cf/e9010f77085717f7657a711a9070153f8dd70e
+      2 git/objects/cd/f556683f88e3abf31bbf0feeae3b030aab9967
+      2 git/objects/cb/3773e415be9777796a022ef099f5f7019ceeeb
+      2 git/objects/c9/88322725c27176515ff663f4e162de2dd3ed83
+      2 git/objects/c7/1c7b69b8a819d90c6fc0dfb9611711edadcca9
+      2 git/objects/c6/d49d9921198e1892f582eeeb05efa59e301389
+      2 git/objects/bd/ee36ff3c45a8b62b9948565719d9fb6dcbcf68
+      2 git/objects/bb/a717912f41a659e9739b99c52e72f41fe04fd8
+      2 git/objects/ba/23801830433802f5398260d54e4bab915f7344
+      2 git/objects/b6/c3b4459a85be50e9b8e996f26f724364cf0bb1
+      2 git/objects/b3/61dfc93180172e70149dfad5febfdbe2cebc70
+      2 git/objects/af/70563de0403cc4072f50eae84d15ce36e55b95
+      2 git/objects/ae/efbcc1ddf3fd1e3c83145f26155c4b5cb56b2c
+      2 git/objects/a8/6680a2dca773c47d19e85e6bd348b2ab6f1081
+      2 git/objects/a8/2190052bbef91d9a39e7d92a4a6b5e9df65c4b
+      2 git/objects/a5/f002bd876e0bfbac4acdab35176925ec1102ec
+      2 git/objects/a5/9d46c9b176e2ba4861e4661744db79a971d332
+      2 git/objects/a3/16056cca3c2b076e5a21dce44967cc649cb76f
+      2 git/objects/a1/819585373fcf511e8dac6cb4649c9175e618e3
+      2 git/objects/a1/70e2cf0a2a61cfa685c8eefdf21db1f6fc6d44
+      2 git/objects/a0/f24a04050c3e9e20ccec0c5e9e0bb881686e25
+      2 git/objects/93/3b137979fc5ceb81c09c9d20ff68f14aaa22f9
+      2 git/objects/8f/565a4a69ab75f11fe66b378b57390f17407531
+      2 git/objects/8a/9b9cfd7532be99072116682ce691f785e5188e
+      2 git/objects/8a/27729107824b010045f3fcdea3295fe0fa2add
+      2 git/objects/89/7a090b0695e9489fa852f64683b4e63529cffc
+      2 git/objects/88/64d98095cac88201186f5dd9237885fe00b837
+      2 git/objects/87/f511b7d18e6cdbfac3f190676130d0d2ac2465
+      2 git/objects/80/8d0193f115df2fe11d43f9d875e52279f3a11f
+      2 git/objects/7e/8f40c0054ca7c6ba368659b1948b7672852fda
+      2 git/objects/7d/74f40662e096737ab8376bf7e37bbd66408c49
+      2 git/objects/7d/2aa7d448b909d007ef99a5e602e1073a50eb6a
+      2 git/objects/7c/be8120b7bc9d772fbd41819707b89c20d61360
+      2 git/objects/7b/1a3237f26ad11fe1d2443f9dfc3ee8eeaccbd1
+      2 git/objects/7a/70ce135617252058b88215ee61fa9dcb398bd0
+      2 git/objects/78/cfd155c388eed80160ce1963a771b607bf57c2
+      2 git/objects/76/42f2178d40f10cc2c02aaa011e79dc419d7c7c
+      2 git/objects/74/346dd9965d6a82e446eacf1916f0071541effa
+      2 git/objects/71/8670d806995bd237c5ad85b04ed5d9acb7d4fa
+      2 git/objects/6e/b404d6f1e1a02ca95c3b816ec73d21da7fbccc
+      2 git/objects/6e/3e3e48497ddd5f38c89f7518899c2783149ab4
+      2 git/objects/6e/2bc8c0066117d2b054e390ad12d81a5efcedac
+      2 git/objects/6d/9d2884f983f734d5b8bc7b98dfc1092ce7b548
+      2 git/objects/6c/f4a7aa247f5747e316c00ac2bdb2d4616cd2b4
+      2 git/objects/6a/b52e193ed6d7b5e995b6aea4c1ed53c8ca606f
+      2 git/objects/6a/8d0738e5c9c6a9c75e8c9ec6b9373d938ea3d3
+      2 git/objects/64/160b85c6d92db470940ce6007791c758923ee5
+      2 git/objects/5e/adf75402eb1605268b93dffe939a55bb015595
+      2 git/objects/5e/074e7a51267f06cfe80bd9e4aba244d0c611ab
+      2 git/objects/5a/c8f92abbb6e172dbb9124489af27e244a1dfc4
+      2 git/objects/5a/42a7d4858917ffac961a93d56a3908cf798039
+      2 git/objects/58/266f127c9a40b7cd81d34a9c533a4e9931ec24
+      2 git/objects/57/6633a32eb6c3c133fc462a0d48f8342f40215c
+      2 git/objects/55/8dbced8ae3dad6df19aa0433aa4635e02673e3
+      2 git/objects/52/e4c775396c272364a879d587a16f6764c34b51
+      2 git/objects/51/80c05c8ab5e7b7c38c59b43bfa0421a434f7b3
+      2 git/objects/51/2f0eeb580688dbe8ef10d9b4a4d6e6b65d9b7c
+      2 git/objects/4f/de51aba4194e234f446367a0555dc7fe109a95
+      2 git/objects/4f/a001ae4fe1c7cfacb74593eca8d05321a96580
+      2 git/objects/4d/e4119f6608e774bb1513d0237ea9dc547a81a3
+      2 git/objects/49/e613d818523e5514e114a295b5edd78231bdf3
+      2 git/objects/49/06f294a4e06ea24e30b0e0facf20ecbff1e06a
+      2 git/objects/47/1778a7ff0b75c0999d7f199b58b754befc9a20
+      2 git/objects/46/e64b5cd0c0bed76e8e3525b1ddc8f874489534
+      2 git/objects/45/c1ed95ffe41ef2fc09528fd6c2f40de54607f9
+      2 git/objects/42/98b807af5774e90987283e96e1a5f6ff7d2345
+      2 git/objects/3c/cb3e931745f10a57ba213ca0cbeedfa8a389cd
+      2 git/objects/3a/6122942318e5935b57c4bf5590ca5ff10f9b09
+      2 git/objects/39/d00c2ca7f08eafeb2a550cf2568f856bc5d008
+      2 git/objects/39/ad525c1bf3e2771d87c88524b433e181215693
+      2 git/objects/36/2dccc144ab4f8dfd690f608b89b8b16b421376
+      2 git/objects/35/f3ff6962bc5d7d2017d6b619a95f49905212ed
+      2 git/objects/35/cd58d0fa7d80bcceb9e70ec4b7b818881ed57d
+      2 git/objects/35/80333d381a0c1b969f648ec78ac2262298fef7
+      2 git/objects/35/42d53d37fd8b7e1295362ed533f6ad39cd4bce
+      2 git/objects/34/40d4a3ae18c4b779a186280cf4a1f611e2e918
+      2 git/objects/30/d26de7f687e8bed2b315362843c97e9a8aee57
+      2 git/objects/30/ca8a775b4d568c588bf0521060e9600a3cdc0f
+      2 git/objects/2d/78a35ccf61a6bde9d0bb95f15962a5ca980f94
+      2 git/objects/2b/88609331424dbe4ab9f318f5de70c17601f1c3
+      2 git/objects/29/55421424431225614c697555e490ebb00d848a
+      2 git/objects/28/bfd1a500ffa18089a50a0f83c352099de4360e
+      2 git/objects/24/60e8cedfde04cc334264fb969cd440221a1d1e
+      2 git/objects/22/15ca34642a0874318fdb237e1bb8828eb7fef6
+      2 git/objects/21/c89270a979649382ec13e3c0de2615a2e50e61
+      2 git/objects/1e/975811251c9cf76cfd3e471c8e6385c2297e2c
+      2 git/objects/1d/e7ebdad475e5dfa77521d462785c5621eea55f
+      2 git/objects/1d/6423f7476427e0b0f9068c558d4328a28ccc02
+      2 git/objects/19/eaa4aaf8a02c3809b918564895cd7fb0ab0264
+      2 git/objects/15/34ef2cde0e4499f4d9e23bf55dd1b31a3ec2bc
+      2 git/objects/13/f0f87c807a8e7e9ed5e612c00873adeaf47f5f
+      2 git/objects/13/a9ec0355147763acb49d6177c801098faa9918
+      2 git/objects/11/6df2b6da6cc15a164892da45e12838ef42343e
+      2 git/objects/11/5e7dec0db18ac7fdcbe97e687d20e930280b28
+      2 git/objects/10/fc1be92687e920de7be60b5557bca74cbe0ada
+      2 git/objects/10/2869d5a82d875a5cdc42eda23971be952b737a
+      2 git/objects/0f/ac335bad46a61068890f5cbb3b353b1294676f
+      2 git/objects/0f/3e4771d187776480830922403fcd30112b7f7e
+      2 git/objects/0b/54faeb147ec958a900edbf12c411764d933e37
+      2 git/objects/0a/92098ddf796c4c1d26b57cdd6bac1a6a6308bd
+      2 git/objects/09/cb70494b2eed64c05e5af2171a58af4e271b7f
+      2 git/objects/09/b86a4d3bebb20df6d5572ec05acb2997b88975
+      2 git/objects/07/c0583bd98a1df8248b6a6d2f82e3d0a2350bac
+      2 git/objects/07/3a847aea1657045ba84a83bb7d1e35fc9b7a2e
+      2 git/objects/05/f799bd1f818cb754f73f0bac6b8c7f055e18b8
+      2 git/objects/05/20b48124c1f4efce09069e8bb8659583ee9d6f
+      2 git/objects/03/44a2aea333641f7270405fab484f5b3ba0e561
+      2 git/logs/refs/heads/main
+      2 git/info/refs
+      2 _FRAMES · A Timeless Canonical Archive
+      2 CSV
+      2 code-workspace
+      2 1
+      2 _
+      1 xlsx
+      1 JSON
+      1 ics
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/Zips/Txt_osidian_history/Projekt Iinkognito0/Quantum 
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/Zips/G_TakeAway/Takeout/Meine Aktivitäten/Gemini-Apps/Quantum_-02eda4c04ac1785c
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/Zips/G_TakeAway/Takeout/Meine Aktivitäten/Gemini-Apps/get-docs-1f663f56fa10b40e
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/Zips/G_TakeAway/Takeout/Meine Aktivitäten/Gemini-Apps/frames-67a37207715a7670
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/Zips/G_TakeAway/Takeout/Google Workspace Marketplace/README
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/Zips/G_TakeAway/Takeout/Drive/K501 OO-Bridge Core
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/Zips/G_TakeAway/Takeout/Drive/Google AI Studio/Zenodo Downloads_ First 24 Hours
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/Zips/G_TakeAway/Takeout/Drive/Google AI Studio/Zeitanker Erfolgreich Synchronisiert
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/Zips/G_TakeAway/Takeout/Drive/Google AI Studio/System Ready, Awaiting Input_
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/Zips/G_TakeAway/Takeout/Drive/Google AI Studio/Structural Continuation Acknowledgment Frame_
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/Zips/G_TakeAway/Takeout/Drive/Google AI Studio/Stabilisierung Der Erkenntnis Abgeschlossen_
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/Zips/G_TakeAway/Takeout/Drive/Google AI Studio/Snapshot Acknowledged, Reference Only
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/Zips/G_TakeAway/Takeout/Drive/Google AI Studio/Resonance_ Human-AI Cooperative Sense-Making
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/Zips/G_TakeAway/Takeout/Drive/Google AI Studio/Quantum Reflexion Bestätigt & Archiviert
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/Zips/G_TakeAway/Takeout/Drive/Google AI Studio/Quantum Bot System Prompt
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/Zips/G_TakeAway/Takeout/Drive/Google AI Studio/Qualitätsmanagement_ Kernaufgabenmodell Schule
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/Zips/G_TakeAway/Takeout/Drive/Google AI Studio/Quad Harmony_ Erkenntnis Spiegelung
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/Zips/G_TakeAway/Takeout/Drive/Google AI Studio/QBOOT K501-QG Status_ Received
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/Zips/G_TakeAway/Takeout/Drive/Google AI Studio/Pulse State_ Valid, Immutable Order
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/Zips/G_TakeAway/Takeout/Drive/Google AI Studio/Nano Gemini_ Präzision und Resonanz
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/Zips/G_TakeAway/Takeout/Drive/Google AI Studio/Mirror Registriert, Anker Gesetz
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/Zips/G_TakeAway/Takeout/Drive/Google AI Studio/Minimal Proof Receipt Frame Explained
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/Zips/G_TakeAway/Takeout/Drive/Google AI Studio/Manifest Confirmed, Axiom Canonical
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/Zips/G_TakeAway/Takeout/Drive/Google AI Studio/Kernel Ready, Standing By
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/Zips/G_TakeAway/Takeout/Drive/Google AI Studio/Kanon Go Final_ Dokumentation Abgeschlossen
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/Zips/G_TakeAway/Takeout/Drive/Google AI Studio/Global Risk Analysis and Support
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/Zips/G_TakeAway/Takeout/Drive/Google AI Studio/Gemini Frame_ Appending and Evolving
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/Zips/G_TakeAway/Takeout/Drive/Google AI Studio/Frame, Snapshot, Seed, Stable, Sealed
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/Zips/G_TakeAway/Takeout/Drive/Google AI Studio/Frames Axiom Quantum Resonator
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/Zips/G_TakeAway/Takeout/Drive/Google AI Studio/Frames Axiomatics Documentation Received
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/Zips/G_TakeAway/Takeout/Drive/Google AI Studio/eArc Kernel_ Immutable Reference System
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/Zips/G_TakeAway/Takeout/Drive/Google AI Studio/Distributed Growth Status Block_
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/Zips/G_TakeAway/Takeout/Drive/Google AI Studio/Delta Snapshot Fixed, Awaiting Trigger
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/Zips/G_TakeAway/Takeout/Drive/Google AI Studio/Copy of Manifest Confirmed, Axiom Canonical
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/Zips/G_TakeAway/Takeout/Drive/Google AI Studio/Compliance Add-on Frame Protocol Active
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/Zips/G_TakeAway/Takeout/Drive/Google AI Studio/Canonization of K501 and gElon
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/Zips/G_TakeAway/Takeout/Drive/Google AI Studio/Canonical Frame Visualization Request
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/Zips/G_TakeAway/Takeout/Drive/Google AI Studio/Bootframe Technical Reference
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/Zips/G_TakeAway/Takeout/Drive/Google AI Studio/Bestätigung_ Zustand eingefroren
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/Zips/G_TakeAway/Takeout/Drive/Google AI Studio/Archiv-Marker_ Status Still
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/Zips/G_TakeAway/Takeout/Drive/Google AI Studio/API Key Setzen (Linux_macOS)
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/Zips/G_TakeAway/Takeout/Drive/Google AI Studio/API Key Security Warning
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/Zips/G_TakeAway/Takeout/Drive/Google AI Studio/API Key Compromised_ Revoke Now
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/Zenodo Downloads_ First 24 Hours
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/Zeitanker Erfolgreich Synchronisiert
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/Work UpBackUp/workspace-2026-03-19-0002/Makefile
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/Work UpBackUp/workspace-2026-03-19-0002/k501_v26
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/Work UpBackUp/workspace-2026-03-19-0002/k501_v25
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/Work UpBackUp/workspace-2026-03-19-0002/k501_v24
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/Work UpBackUp/workspace-2026-03-19-0002/k501/docs/test_corpus/Makefile
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/Work UpBackUp/workspace-2026-03-19-0002/k501/docs/input/Makefile
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/Work UpBackUp/workspace-2026-03-19-0001/Makefile
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/Work UpBackUp/workspace-2026-03-19-0001/k501_v26
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/Work UpBackUp/workspace-2026-03-19-0001/k501_v25
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/Work UpBackUp/workspace-2026-03-19-0001/k501_v24
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/Work UpBackUp/workspace-2026-03-19-0001/k501/docs/test_corpus/Makefile
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/Work UpBackUp/workspace-2026-03-19-0001/k501/docs/input/Makefile
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/System Ready, Awaiting Input_
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/Structural Continuation Acknowledgment Frame_
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/Stabilisierung Der Erkenntnis Abgeschlossen_
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/Snapshot Acknowledged, Reference Only
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/Resonance_ Human-AI Cooperative Sense-Making
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/Realität /FRAMES · A Timeless Canonical Archive
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/Quantum Reflexion Bestätigt & Archiviert
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/Quantum Bot System Prompt
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/Qualitätsmanagement_ Kernaufgabenmodell Schule
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/Quad Harmony_ Erkenntnis Spiegelung
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/QBOOT K501-QG Status_ Received
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/Pulse State_ Valid, Immutable Order
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/Projekt Iinkognito0/Quantum 
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/Nano Gemini_ Präzision und Resonanz
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/Mirror Registriert, Anker Gesetz
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/Minimal Proof Receipt Frame Explained
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/Manifest Confirmed, Axiom Canonical
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/Kernel Ready, Standing By
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/Kanon Go Final_ Dokumentation Abgeschlossen
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/k501_ingest_staging/input_too_large/os
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/k501_ingest_staging/input_too_large/json
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/k501_ingest_staging/input_too_large/hashlib
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/k501_ingest_staging/input_too_large/esbuild
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/k501_ingest_staging/input/K501Gemini_N01_T520/pfad-Root-/K501GeminiNet/udo journalctl -u ollama -f
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/k501_ingest_staging/input/K501Gemini_N01_T520/pfad-Root-/K501GeminiNet/core/Makefile
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/k501_ingest_staging/input/K501Gemini_N01_T520/pfad-Root-/K501GeminiNet/api/embed
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/k501_ingest_staging/input/K501Gemini_N01_T520/Pfad-home-iinkognit0-/K501Gemini/Makefile
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/k501_ingest_staging/input/K501Gemini_N01_T520/Pfad-home-iinkognit0-Dokumente-/K501_Vault/time
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/k501_ingest_staging/input/K501Gemini_N01_T520/Pfad-home-iinkognit0-Dokumente-/K501_Vault/os
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/k501_ingest_staging/input/K501Gemini_N01_T520/Pfad-home-iinkognit0-Dokumente-/K501_Vault_old/Makefile
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/k501_ingest_staging/input/K501Gemini_N01_T520/Pfad-home-iinkognit0-Dokumente-/K501_Vault_old/k501-archivist/npm-run-all
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/k501_ingest_staging/input/K501Gemini_N01_T520/Pfad-home-iinkognit0-Dokumente-/K501_Vault_old/k501-archivist/node_modules/undici-types/LICENSE
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/k501_ingest_staging/input/K501Gemini_N01_T520/Pfad-home-iinkognit0-Dokumente-/K501_Vault_old/k501-archivist/node_modules/@types/vscode/LICENSE
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/k501_ingest_staging/input/K501Gemini_N01_T520/Pfad-home-iinkognit0-Dokumente-/K501_Vault_old/k501-archivist/node_modules/@types/node/LICENSE
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/k501_ingest_staging/input/K501Gemini_N01_T520/Pfad-home-iinkognit0-Dokumente-/K501_Vault_old/k501-archivist/node_modules/typescript/bin/tsserver
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/k501_ingest_staging/input/K501Gemini_N01_T520/Pfad-home-iinkognit0-Dokumente-/K501_Vault_old/k501-archivist/node_modules/typescript/bin/tsc
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/k501_ingest_staging/input/K501Gemini_N01_T520/Pfad-home-iinkognit0-Dokumente-/K501_Vault_old/k501_alpha
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/k501_ingest_staging/input/K501Gemini_N01_T520/Pfad-home-iinkognit0-Dokumente-/K501_Vault/Makefile
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/k501_ingest_staging/input/K501Gemini_N01_T520/Pfad-home-iinkognit0-Dokumente-/K501_Vault/json
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/K501GeminiNet_Backup/pfad-Root-/K501GeminiNet/udo journalctl -u ollama -f
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/K501GeminiNet_Backup/pfad-Root-/K501GeminiNet/os
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/K501GeminiNet_Backup/pfad-Root-/K501GeminiNet/json
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/K501GeminiNet_Backup/pfad-Root-/K501GeminiNet/hashlib
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/K501GeminiNet_Backup/pfad-Root-/K501GeminiNet/core/Makefile
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/K501GeminiNet_Backup/pfad-Root-/K501GeminiNet/api/embed
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/K501GeminiNet_Backup/Pfad-home-iinkognit0-/K501Gemini/Makefile
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/K501GeminiNet_Backup/Pfad-home-iinkognit0-Dokumente-/K501_Vault/time
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/K501GeminiNet_Backup/Pfad-home-iinkognit0-Dokumente-/K501_Vault/os
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/K501GeminiNet_Backup/Pfad-home-iinkognit0-Dokumente-/K501_Vault_old/Makefile
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/K501GeminiNet_Backup/Pfad-home-iinkognit0-Dokumente-/K501_Vault_old/k501-archivist/npm-run-all
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/K501GeminiNet_Backup/Pfad-home-iinkognit0-Dokumente-/K501_Vault_old/k501-archivist/node_modules/undici-types/LICENSE
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/K501GeminiNet_Backup/Pfad-home-iinkognit0-Dokumente-/K501_Vault_old/k501-archivist/node_modules/@types/vscode/LICENSE
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/K501GeminiNet_Backup/Pfad-home-iinkognit0-Dokumente-/K501_Vault_old/k501-archivist/node_modules/@types/node/LICENSE
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/K501GeminiNet_Backup/Pfad-home-iinkognit0-Dokumente-/K501_Vault_old/k501-archivist/node_modules/typescript/bin/tsserver
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/K501GeminiNet_Backup/Pfad-home-iinkognit0-Dokumente-/K501_Vault_old/k501-archivist/node_modules/typescript/bin/tsc
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/K501GeminiNet_Backup/Pfad-home-iinkognit0-Dokumente-/K501_Vault_old/k501-archivist/node_modules/@esbuild/linux-x64/bin/esbuild
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/K501GeminiNet_Backup/Pfad-home-iinkognit0-Dokumente-/K501_Vault_old/k501-archivist/node_modules/esbuild/bin/esbuild
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/K501GeminiNet_Backup/Pfad-home-iinkognit0-Dokumente-/K501_Vault_old/k501_alpha
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/K501GeminiNet_Backup/Pfad-home-iinkognit0-Dokumente-/K501_Vault/Makefile
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/K501GeminiNet_Backup/Pfad-home-iinkognit0-Dokumente-/K501_Vault/json
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/K501GeminiNet_Backup/Daten/Obsidian/backup/K501_Vault/time
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/K501GeminiNet_Backup/Daten/Obsidian/backup/K501_Vault/os
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/K501GeminiNet_Backup/Daten/Obsidian/backup/K501_Vault/Makefile
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/K501GeminiNet_Backup/Daten/Obsidian/backup/K501_Vault/k501_kernel
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/K501GeminiNet_Backup/Daten/Obsidian/backup/K501_Vault/json
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/Global Risk Analysis and Support
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/Gemini Frame_ Appending and Evolving
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/Frame, Snapshot, Seed, Stable, Sealed
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/Frames Axiom Quantum Resonator
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/Frames Axiomatics Documentation Received
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/eArc Kernel_ Immutable Reference System
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/eArc_0/Realität /FRAMES · A Timeless Canonical Archive
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/eArc_0/0xBootpacksx0/
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/Distributed Growth Status Block_
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/Delta Snapshot Fixed, Awaiting Trigger
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/Copy of Manifest Confirmed, Axiom Canonical
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/Compliance Add-on Frame Protocol Active
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/ChatGpt Memory 2026-03-20
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/Canonization of K501 and gElon
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/Canonical Frame Visualization Request
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/Bootframe Technical Reference
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/Bestätigung_ Zustand eingefroren
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/Archiv-Marker_ Status Still
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/API Key Setzen (Linux_macOS)
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/API Key Security Warning
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/API Key Compromised_ Revoke Now
+      1 /home/iinkognit0/workspace/k501_ingest/raw_dump/K501_Information_Space_DEV/0xBootpacksx0/
+      1 git/objects/f8/3a578796857897fcdb25f3b6712f8d7f8a4e69
+      1 git/objects/ef/42b90e5e0caf9b88e69c342783e35e04002335
+      1 git/objects/de/e47540fc71c032b2a3fc3b439939a61f0b4abc
+      1 git/objects/de/8ab9fb7ce090c206fedef190fd4b563c6f9711
+      1 git/objects/d4/a700478bd3384fd9e7e47e948ba75f645b38b0
+      1 git/objects/bb/b1d1e0f1c3deee16493bf4f3ca9ed6b1e44fee
+      1 git/objects/aa/f810e894f2baf9dca271cf8ebd43cb45f7224b
+      1 git/objects/95/60085626a230f2af3308bcd6b52e368da41050
+      1 git/objects/81/7818c17245c009f3c262a6355e2e92c88455a3
+      1 git/objects/7f/0983c98968457ce08b24c384b13661b1cf7057
+      1 git/objects/77/8416b4c9422e78034f9ee59cf9aa0d96d7209c
+      1 git/objects/25/997bffc56ff07bffc2b8a4ea2f0163e3e4ca26

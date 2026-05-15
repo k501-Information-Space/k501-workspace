@@ -1,0 +1,19 @@
+{
+  "files.watcherExclude": {
+    "**/raw/**": true,
+    "**/raw_dump/**": true,
+    "**/.git/**": true
+  },
+
+  "search.exclude": {
+    "**/raw/**": true,
+    "**/raw_dump/**": true
+  },
+
+  "files.exclude": {
+    "**/raw/**": true,
+    "**/raw_dump/**": true
+  },
+
+  "git.untrackedChanges": "hidden"
+}
